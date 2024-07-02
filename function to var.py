@@ -1,0 +1,5 @@
+say = print()
+
+
+
+say("hello")
